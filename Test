@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lab Report: [Your Experiment Name]</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>[Your Lab Report Title]</h1>
+    <p><strong>Author:</strong> [Your Name]</p>
+    <p><strong>Date:</strong> [Date]</p>
+  </header>
+
+  <section class="abstract">
+    <h2>Abstract</h2>
+    <p>[Write a brief summary of the lab, its objectives, methods, results, and conclusions.]</p>
+  </section>
+
+  <section class="introduction">
+    <h2>Introduction</h2>
+    <p>[Explain the background information and purpose of the experiment.]</p>
+  </section>
+
+  <section class="methods">
+    <h2>Methods</h2>
+    <p>[Describe the materials and procedures used in the experiment.]</p>
+  </section>
+
+  <section class="results">
+    <h2>Results</h2>
+    <p>[Present the data, tables, and figures. Include any charts or graphs here.]</p>
+    <img src="images/results-graph.png" alt="Results Graph">
+  </section>
+
+  <section class="discussion">
+    <h2>Discussion</h2>
+    <p>[Interpret the results, compare with theoretical expectations, and address potential sources of error.]</p>
+  </section>
+
+  <section class="conclusion">
+    <h2>Conclusion</h2>
+    <p>[Summarize the findings and suggest further experiments or implications.]</p>
+  </section>
+
+  <footer>
+    <p>Lab Report created with GitHub Pages</p>
+  </footer>
+</body>
+</html>
