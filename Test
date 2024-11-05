@@ -49,3 +49,7 @@
   </footer>
 </body>
 </html>
+
+git add .
+git commit -m "Initial commit of lab report"
+git push origin main
